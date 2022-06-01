@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ---
 title: Johanna Fageras.Github.Io
 timezone: UTC
@@ -9,9 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-slate
-=======
-theme: jekyll-theme-slate
-title: Johannas homepage
-description: Bookmark Me!
->>>>>>> Stashed changes
