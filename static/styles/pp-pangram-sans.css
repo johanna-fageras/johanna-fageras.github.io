@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Bold.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Bold.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans XLight';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-ExtralightItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-ExtralightItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-ExtralightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans XLight';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Extralight.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Extralight.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans XBold';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-ExtraboldItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-ExtraboldItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-ExtraboldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-BoldItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-BoldItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans XBold';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Extrabold.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Extrabold.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-RegularItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-RegularItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans SmBold';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Semibold.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Semibold.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans Med';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-MediumItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-MediumItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Thin.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Thin.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans SmBold';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-SemiboldItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-SemiboldItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Light.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Light.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-LightItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-LightItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans Med';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Medium.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Medium.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-Regular.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Regular.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Pangram Sans';
+    src: url('../fonts/pp-pangram-sans/PPPangramSans-ThinItalic.woff2') format('woff2'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-ThinItalic.woff') format('woff'),
+        url('../fonts/pp-pangram-sans/PPPangramSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}

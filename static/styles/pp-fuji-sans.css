@@ -1,15 +1,5 @@
 @font-face {
     font-family: 'PP Fuji Sans';
-    src: url('../fonts/pp-fuji-sans/PPFujiSans-Bold.woff2') format('woff2'),
-        url('../fonts/pp-fuji-sans/PPFujiSans-Bold.woff') format('woff'),
-        url('../fonts/pp-fuji-sans/PPFujiSans-Bold.ttf') format('truetype');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'PP Fuji Sans';
     src: url('../fonts/pp-fuji-sans/PPFujiSans-Light.woff2') format('woff2'),
         url('../fonts/pp-fuji-sans/PPFujiSans-Light.woff') format('woff'),
         url('../fonts/pp-fuji-sans/PPFujiSans-Light.ttf') format('truetype');
@@ -34,6 +24,16 @@
         url('../fonts/pp-fuji-sans/PPFujiSans-Medium.woff') format('woff'),
         url('../fonts/pp-fuji-sans/PPFujiSans-Medium.ttf') format('truetype');
     font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fuji Sans';
+    src: url('../fonts/pp-fuji-sans/PPFujiSans-Bold.woff2') format('woff2'),
+        url('../fonts/pp-fuji-sans/PPFujiSans-Bold.woff') format('woff'),
+        url('../fonts/pp-fuji-sans/PPFujiSans-Bold.ttf') format('truetype');
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
